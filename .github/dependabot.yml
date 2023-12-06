@@ -4,7 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "22:47"
+      time: "22:40"
       timezone: "Europe/London"
     reviewers:
       - "sabih.saleh@bca.com"
