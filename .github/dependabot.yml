@@ -8,6 +8,8 @@ updates:
       timezone: "Europe/London"
     reviewers:
       - "sabih.saleh@bca.com"
+     assignees:
+      - "sabih.saleh@bca.com"
     open-pull-requests-limit: 10
     commit-message:
       prefix: "mvn"
