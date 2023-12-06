@@ -4,7 +4,10 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "07:22"
+      time: "22:47"
+      timezone: "Europe/London"
+    reviewers:
+      - "sabih.saleh@bca.com"
     open-pull-requests-limit: 10
     commit-message:
       prefix: "mvn"
