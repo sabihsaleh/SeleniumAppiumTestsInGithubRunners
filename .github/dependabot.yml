@@ -7,9 +7,9 @@ updates:
       time: "23:07"
       timezone: "Europe/London"
     reviewers:
-      - "sabih.saleh@bca.com"
+      - "sabihsaleh@yahoo.com"
     assignees:
-      - "sabih.saleh@bca.com"
+      - "sabihsaleh@yahoo.com"
     open-pull-requests-limit: 10
     commit-message:
       prefix: "mvn"
