@@ -73,7 +73,7 @@
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.2.0",
     "fetch-mock-jest": "^1.2.4",
-    "husky": "^7.0.1",
+    "husky": "^8.0.3",
     "identity-obj-proxy": "^3.0.0",
     "jest-styled-components": "^7.1.1",
     "miragejs": "^0.1.40",
