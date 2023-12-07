@@ -4,12 +4,12 @@ updates:
     directory: "/"
     schedule:
       interval: daily
-      time: "23:00"
+      time: "09:00"
       timezone: "Europe/London"
     reviewers:
-      - "sabihsaleh@yahoo.com"
+      - "sabihsaleh"
     assignees:
-      - "sabihsaleh@yahoo.com"
+      - "sabih"
     open-pull-requests-limit: 10
     commit-message:
       prefix: "mvn"
