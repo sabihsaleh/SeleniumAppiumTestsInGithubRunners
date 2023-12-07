@@ -14,8 +14,6 @@ updates:
     commit-message:
       prefix: "mvn"
 
-  version: 2
-updates:
   - package-ecosystem: npm
     directory: "/"
     schedule:
