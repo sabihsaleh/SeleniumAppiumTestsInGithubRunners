@@ -13,3 +13,19 @@ updates:
     open-pull-requests-limit: 10
     commit-message:
       prefix: "mvn"
+
+  version: 2
+updates:
+  - package-ecosystem: npm
+    directory: "/"
+    schedule:
+      interval: daily
+      time: "08:00"
+      timezone: "Europe/London"
+    reviewers:
+      - "sabihsaleh@yahoo.com"
+    assignees:
+      - "sabihsaleh@yahoo.com"
+    open-pull-requests-limit: 10
+    commit-message:
+      prefix: "npm"
